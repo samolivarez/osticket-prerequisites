@@ -24,6 +24,7 @@ This guide outlines the prerequisites and installation of the open-source help d
 - C++ Redistributable
 - MySQL Server
 - Heidi SQL
+- Download/Install osTicket
 
 <h2>Installation Steps</h2>
 
@@ -33,7 +34,7 @@ This guide outlines the prerequisites and installation of the open-source help d
 <p> The very first step in the installation of osTicket is to install/enable Internet Informatin Services(IIS) on computer which 
 is done by going to the devices control panel>programs & featrures>turn windows featurs on/off>click box for 
 "Internet Information Services" then proceeding with the necessary steps to finalize IIS installtion culminatin by testing for 
-IIS installation by typing devices loopback address in browser to see if the IIS home page opens as next image will show. 
+IIS installation by typing devices loopback address in browser to test if the IIS home page opens as next image will show. 
 
 </p>
 <br />
@@ -42,7 +43,8 @@ IIS installation by typing devices loopback address in browser to see if the IIS
 <img src="https://i.imgur.com/nS53yOj.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+If IIS was installed properly the IIS home screen should open once the loopback address 127.0.0.1 is typed in browser as above image
+shows.
 </p>
 <br />
 
