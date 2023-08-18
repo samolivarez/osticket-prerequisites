@@ -9,7 +9,7 @@ This guide outlines the prerequisites and installation of the open-source help d
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
 
@@ -19,6 +19,7 @@ This guide outlines the prerequisites and installation of the open-source help d
 
 <h2>Key Prerequisites</h2>
 
+- Microsoft Azure & Virtual Machine
 - Internet Information Services(IIS)
 - PHP Manager
 - C++ Redistributable
@@ -31,8 +32,7 @@ This guide outlines the prerequisites and installation of the open-source help d
 <p>
 <img src="https://i.imgur.com/ZOhWuQF.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p> 
-<p> The very first step in the installation of osTicket is to install/enable Internet Informatin Services(IIS) on computer which 
-is done by first going to the device's control panel>programs & featrures>turn windows featurs on/off>click box for 
+<p> After the user remotely logs into their Virtual Machine that was created using  Microsoft Azure, the next step in the installation of osTicket is to install/enable Internet Information Services(IIS) on the computer(VM) which is done by first going to the device's start menu>control panel>programs & featrures>turn windows featurs on/off>click box for 
 "Internet Information Services" as next image shows.
 
 </p>
@@ -77,7 +77,7 @@ The next step is to download/install C++ Redistributable which PHP requires.
 <img src="https://i.imgur.com/hziG2FF.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The next step is to download/install MySQL server which will serve as database for our osTicket application.
+The next step is to download/install MySQL server which will serve as the database for our osTicket application.
 </p>
 <br /># osticket-prerequisites
 
@@ -85,7 +85,7 @@ The next step is to download/install MySQL server which will serve as database f
 <img src="https://i.imgur.com/X4QXRl4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The next step is to download/install osTicket and set up osTicket admin credentials followed by: dowload/install HeidiSQL>sync HeidiSQL with our MySQL database which lets us interact with our SQL databse>enter MySQL credentials in osTicket settings>create new database in Heidi called osTicket>click "install" in osTicket settings>do some "clean-up". If osTicket installed properly the above image should appear on device's screen...Go to your osTicket admin login link to test final installation success! 
+The next step is to download/install osTicket and set up osTicket admin credentials followed by simply: download/install HeidiSQL>sync HeidiSQL with our MySQL database so will interact with our SQL databse>enter MySQL credentials in osTicket settings>create new database in Heidi called osTicket>click "install" in osTicket settings then do some file "clean-up". If osTicket installed properly the above image should appear on device's screen. Finally, go to your osTicket admin login page to test final installation success! 
 </p>
 <br /># osticket-prerequisites
 
