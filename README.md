@@ -41,7 +41,7 @@ This guide outlines the prerequisites and installation of the open-source help d
 <img src="https://i.imgur.com/f6czbb7.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Image above shows the checkbox selection for  "Internet Information Services" 
+Image above shows the checkbox selection for  "Internet Information Services" which is essentially a web server that allows the computer to serve up websites because osTicket runs out of a website.
 </p>
 <br />
 
