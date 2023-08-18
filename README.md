@@ -26,7 +26,7 @@ This guide outlines the prerequisites and installation of the open-source help d
 - Heidi SQL
 - Download/Install osTicket
 
-<h2>Installation Steps</h2>
+<h2> Key Installation Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/ZOhWuQF.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
