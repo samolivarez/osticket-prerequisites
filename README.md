@@ -63,3 +63,36 @@ shows.
 The next step is to install "PHP Manager for IIS" as above image shows followed by: download/install Rewrite Module, create the directory (C:) for PHP, download/install PHP-7.3.8-nts-win32-vc15x86 which is a general server side scripting language some applications need.
 </p>
 <br /># osticket-prerequisites
+
+
+<p>
+<img src="https://i.imgur.com/yaJZJLg.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The next step is to download/install C++ Redistributable which PHP requires. 
+</p>
+<br /># osticket-prerequisites
+
+<p>
+<img src="https://i.imgur.com/hziG2FF.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The next step is to download/install MySQL server which will serve as database for our osTicket application.
+</p>
+<br /># osticket-prerequisites
+
+<p>
+<img src="https://i.imgur.com/X4QXRl4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The next step is to download/install osTicket and set up osTicket admin credentials. If osTicket installed properly the above image should appear on device's screen.
+</p>
+<br /># osticket-prerequisites
+
+<p>
+<img src="https://i.imgur.com/X4QXRl4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The next step is to download/install osTicket and set up osTicket admin credentials followed by:
+</p>
+<br /># osticket-prerequisites
