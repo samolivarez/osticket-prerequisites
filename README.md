@@ -85,14 +85,8 @@ The next step is to download/install MySQL server which will serve as database f
 <img src="https://i.imgur.com/X4QXRl4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The next step is to download/install osTicket and set up osTicket admin credentials. If osTicket installed properly the above image should appear on device's screen.
+The next step is to download/install osTicket and set up osTicket admin credentials followed by: dowload/install HeidiSQL>sync HeidiSQL with our MySQL database which lets us interact with our SQL databse>enter MySQL credentials in osTicket settings>create new database in Heidi called osTicket>click "install" in osTicket settings>do some "clean-up". If osTicket installed properly the above image should appear on device's screen...Go to your osTicket admin login link to test final installation success! 
 </p>
 <br /># osticket-prerequisites
 
-<p>
-<img src="https://i.imgur.com/X4QXRl4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-The next step is to download/install osTicket and set up osTicket admin credentials followed by:
-</p>
-<br /># osticket-prerequisites
+
